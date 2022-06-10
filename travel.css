@@ -1,0 +1,79 @@
+.image {
+	background-image: url(https://images.pexels.com/photos/1387037/pexels-photo-1387037.jpeg?cs=srgb&dl=pexels-bayu-jefri-1387037.jpg&fm=jpg);
+	background-size: auto;
+	height: 300px;
+}
+
+
+.header {	
+	padding-top: 50px;
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+.paragraph {
+    
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+
+.header1 {
+	padding-top: 50px;
+	color: black;
+	font-size: 40px;
+	text-align: center;
+}
+.image1 {
+	background-image: url(https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?cs=srgb&dl=pexels-gdtography-950241.jpg&fm=jpg	);
+	background-size: auto;
+	height: 3000px;
+}
+.newline {
+	padding-top: 50px;
+	color: black;
+	font-size: 30px;
+	text-align: right;
+}
+.newparagraph {
+	padding-top: 0px;
+	color: black;
+	font-size: 16px;
+	text-align: right;
+}
+.img2 {
+	background-image: url(https://images.pexels.com/photos/3889843/pexels-photo-3889843.jpeg?cs=srgb&dl=pexels-taryn-elliott-3889843.jpg&fm=jpg);
+	background-size: auto;
+	height: 300px;
+}
+.newparagraph1 {
+	padding-top: 0px;
+	color: black;
+	font-size: 16px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	text-align: right;
+}
+
+.finishweb {
+	background-image: url(https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?cs=srgb&dl=pexels-adrien-olichon-2387793.jpg&fm=jpg);
+	background-size: auto;
+	height: 500px;
+}
+.finalltext {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+    font-size: 60px;
+	color: aliceblue;
+}
+.finallpa {
+	margin: 70px;
+	text-align: left;
+	display: flex;
+	color: aliceblue;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.photo {
+	float: left;
+	display: flex;
+	margin: 64px;
+}
