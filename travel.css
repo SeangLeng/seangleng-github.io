@@ -1,0 +1,195 @@
+.image {
+	background-image: url(https://images.pexels.com/photos/1387037/pexels-photo-1387037.jpeg?cs=srgb&dl=pexels-bayu-jefri-1387037.jpg&fm=jpg);
+	background-size: auto;
+	height: 300px;
+}
+
+
+.header {	
+	padding-top: 50px;
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+.paragraph {
+    
+	color: white;
+	font-size: 25px;
+	text-align: center;
+}
+
+.header1 {
+	padding-top: 50px;
+	color: black;
+	font-size: 40px;
+	text-align: center;
+}
+.image1 {
+	background-image: url(https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?cs=srgb&dl=pexels-gdtography-950241.jpg&fm=jpg	);
+	background-size: auto;
+	height: 3000px;
+}
+.newline {
+	padding-top: 50px;
+	color: black;
+	font-size: 30px;
+	text-align: right;
+}
+.newparagraph {
+	padding-top: 0px;
+	color: black;
+	font-size: 16px;
+	text-align: right;
+}
+.img2 {
+	background-image: url(https://images.pexels.com/photos/3889843/pexels-photo-3889843.jpeg?cs=srgb&dl=pexels-taryn-elliott-3889843.jpg&fm=jpg);
+	background-size: auto;
+	height: 300px;
+}
+.newparagraph1 {
+	padding-top: 0px;
+	color: black;
+	font-size: 16px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	text-align: right;
+}
+
+.finishweb {
+	background-image: url(https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?cs=srgb&dl=pexels-adrien-olichon-2387793.jpg&fm=jpg);
+	background-size: auto;
+	height: 500px;
+}
+.finalltext {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+    font-size: 60px;
+	color: aliceblue;
+}
+.finallpa {
+	margin: 70px;
+	text-align: left;
+	display: flex;
+	color: aliceblue;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.photo {
+	float: left;
+	display: flex;
+	margin: 64px;
+}
+#text-position {
+	position: relative;
+	left: 1px; 
+	/* bottom: 100px; */
+	text-align: center;
+	width: 30%;
+}
+#section-2 {
+	position: relative;
+	left: 500px; 
+	/* bottom: 100px; */
+	text-align: center;
+	width: 30%;
+}
+#section-3 {
+	position: relative;
+	right: 0px;
+	/* bottom: 100px;  */
+	text-align: center;
+	width: 30%;
+}
+
+#resort_image img{
+	float: left;
+	margin: 20px;
+}
+#resort_text {
+	text-align: justify;
+	font-size: 20px;
+	
+}
+.khmer_temple {
+	text-align: center;
+	width: 20%;
+}
+div.main-box {      
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.section-box {
+	background-color: white;
+	border: 1px solid black;
+	width: 430px;
+	height: 250px;
+	margin: 5px;
+	text-align: center;
+	display: inline-block;
+}
+.section-box img {
+	width: 200px; 
+	height: 150px;
+}
+#asia_travel_image1 {
+	float: left;
+	margin: 5px;
+
+}
+#asia_travel_image2 {
+	float: center;
+	margin: 3px;
+}
+#asia_travel_image3 {
+	float: right;
+	margin: 3px;
+}
+.container {
+	position: relative;
+	text-align: center;
+	color: black;
+}
+.right {
+	position: relative;
+	text-align: center;
+	color: black;
+}
+.row :after{
+	content: "";
+	display: table;
+	clear: both;
+	display: inline-block;
+}
+.column {
+	float: left;
+    width: 30%;
+    padding: 5px;
+    height: 300px;
+    margin: 1%;
+}
+.section-box1 {
+	background-color: white;
+	border: 1px solid black;
+	margin: 1%;
+	justify-content: left;
+	display: table-cell;
+	width: 1500px;
+}
+ div.relax img{
+		margin: 31px;
+		float: right;
+		height: 400px;
+		width: 400px;
+	} 
+#headerslide {
+	margin: 20px;
+}  
+#textslide {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	margin: 20px;
+	font-size: 30px;
+}
+#textslide img{
+	float: left;
+	position: relative;
+	border: black;
+}
